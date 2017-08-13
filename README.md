@@ -156,7 +156,7 @@ filemanMsg: {
 
 * [Login](https://github.com/shabiel/ewd-vista-login)
 * [BedBoard](https://github.com/shabiel/ewd-vista-bedboard)
-* [TaskMan Monitor](https://github.com/shabiel/ewd-taskman-monitor)
+* [TaskMan Monitor](https://github.com/shabiel/ewd-vista-taskman-monitor)
 * [FileMan](https://github.com/shabiel/ewd-vista-fileman)
 * [Pharmacy](https://github.com/shabiel/ewd-vista-pharmacy)
 * [Push Handler](https://github.com/shabiel/ewd-vista-push-handler)
